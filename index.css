@@ -1,0 +1,129 @@
+
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.html {
+    font-size: 62.5%;
+}
+
+.wrapper{
+    margin: 5vw;
+    font-size: 1.3rem;
+}
+
+.nav {
+    position: relative;
+    margin: 2em auto;
+    width: 100%;
+    text-align: center;
+    font-size:1.6em;
+    word-wrap: break-word;
+}
+
+.nav a {
+    display: inline-block;
+    line-height: 0.9;
+    text-decoration: none;
+    border: none;
+    text-transform: capitalize;
+    padding: .5em;
+    margin: 1em;
+    color: white;
+    background: black;
+    border-radius: 10px;
+}
+
+#plan {
+    background: #FF764E
+}
+
+#learn {
+    background: #5ED3EB
+}
+
+#getInvolved {
+    background: #FFCD69
+}
+
+.container {
+    height: 310px;
+    width: 95%;
+    margin: 0px 0px 50px 0px;
+}
+
+.container img {
+    border-radius:50%;
+    height: 300px;
+    width: 300px;
+    margin-left: 4vw;
+
+}
+.container h2 {
+    text-align: center;
+    font-size: 3.2em;
+    font-family: 'Chelsea Market', cursive;
+}
+
+.container p {
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.info {
+    margin-left: 27vw;
+    padding-top: 0px;
+}
+
+#explore {
+    margin-left: 28.5vw;
+}
+
+#open {
+    margin-left: 37.5vw;
+    margin-right: 11vw;
+}
+
+#section2 {
+    background: #DDB9A3;
+}
+
+.text {
+    padding: 5px;
+    margin: 12px;
+    color: white;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+#section3 img {
+    height: 180px;
+    width: 180px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 8px;
+    padding-top: 10px;
+}
+
+#section3 p {
+    margin: 0 32vw;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    font-size: 1.1em;
+}
+
+#section3 span {
+    font-weight: bold;
+}
+
+#footer {
+    width: 100vw;
+    height: 500px;
+    overflow: hidden;
+}
+
+#footer img {
+    width: 100vw;
+    margin-bottom: 40px;
+}
